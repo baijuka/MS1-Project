@@ -33,7 +33,7 @@ MerryWash has incorporated all these user gaols in its website and it:
 - has provided all required information about services and business
 - is intuitive, learnable and easy to navigate
 - has arranged its patterns, navigation and order of menu items in a way that any one can identify it easily
-- is, above all, responsive to various devices such as mobile, tablets and larger screens.
+- is, above all, responsive to various devices such as mobile, tablets, desktops and other larger screens.
 
 
 
