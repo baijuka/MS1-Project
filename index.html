@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
@@ -16,16 +17,18 @@
     <header class="header">
         <!-- Credits: Code for navbar taken from https://getbootstrap.com/docs/4.5/components/navbar/
         and edited slightly to fit the project purpose -->
-
-       <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+       
+       <nav class="navbar navbar-expand-md navbar-light bg-primary">
+           
             <a class="navbar-brand" href="index.html"><a href=""><img class="logo" src="assets/images/logo.png" alt="Logo"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
-            </button>
+            </button> 
+            
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item active">
-                        <a class="nav-link menu-item" href="index.html">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="services.html">Services</a>
@@ -38,17 +41,73 @@
                     </li>
                 </ul>
             </div>
-</nav>
-     
+            
+        </nav>
+       
     </header>
 
-    <section>
-        image
+    <section class="container-fulid">
+        <div class="row">
+            <div class="col-12">    
+                <img id="img-home-1" src="assets/images/wash1-v1.jpg" alt="Wash Image">
+            </div>
+        </div>
     </section>
-    <section>
-        WHAT DO WE DO    IMAGE
-        WHY CHOOSE US?   IMAGE
-        HOW DO WE DO?    IMAGE
+    <section class="container-fluid" p-3>
+        <div class="row">
+            <div class="col-12" id="about-head">
+                <h2>About Us</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-md-4 about-col">
+                <div class="section-sub-head">
+                    <h4>WHAT DO WE DO?</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, aliquam ratione nemo quaerat quidem inventore consectetur
+                        voluptatibus optio molestiae, magni nobis repellat fugiat repudiandae laborum quia aspernatur praesentium fuga. Totam.
+                    </p>
+                </div>
+         
+                <div id ="div-img-1">
+                    <!-- <img src="assets/images/wash1-1a.jpg" alt="Jet Wash Image"> -->
+          
+                </div>
+            </div>
+
+            <div class="col-sm-6 col-md-4 about-col">
+                <div class="section-sub-head">
+                    <h4>WHY CHOOSE US?</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, aliquam ratione nemo quaerat quidem inventore consectetur
+                        voluptatibus optio molestiae, magni nobis repellat fugiat repudiandae laborum quia aspernatur praesentium fuga. Totam.
+                    </p>
+                </div>
+               
+                    <div id ="div-img-2">
+
+                    </div>
+                    <!-- <div class="section-sub-image">
+                        <img src="assets/images/in-wipe.jpg" alt="Jet Wash Image">
+                    </div> 
+                -->             
+           
+            </div>
+
+            <div class="col-sm-3 col-md-4 about-col">
+                <div class="section-sub-head">
+                    <h4>HOW DO WE DO?</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, aliquam ratione nemo quaerat quidem inventore consectetur
+                        voluptatibus optio molestiae, magni nobis repellat fugiat repudiandae laborum quia aspernatur praesentium fuga. Totam.
+                    </p>
+                </div>
+            
+               <div id ="div-img-3">
+
+                </div>
+                    
+            </div>
+            
+        </div>
+        
     </section>
 
     <footer>

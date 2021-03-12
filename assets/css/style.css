@@ -1,14 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Lato&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Lato&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Lato:100,200,300,400,500,600,700');
 
 *{
     margin: 0;
     padding: 0;
 }
 
-/*  
-font-family: 'Lato', sans-serif;
-font-family: 'Roboto', sans-serif;
-*/
+body { 
+    font-family: 'Roboto', sans-serif;
+}
+
 
 .header {
     height: auto;
@@ -18,16 +19,28 @@ font-family: 'Roboto', sans-serif;
 
 /* ------- Navbar Styling ------*/
 
+.bg-dark {
+    background: #3193e9 !important;
+}
 nav {
-    width: 100%;
+    width: auto;
+}
+
+.navbar-light {
+    box-shadow: 0 2px 8px rgb(167, 157, 157);
 }
 
 a.nav-link {
     color: white !important;
+    margin-left:50px;
 }
 
 a.nav-link:hover {
     color: orange !important;
+}
+
+.navbar-nav li.active > a {
+    color:#ad9683 !important;
 }
 
 #nav li {
@@ -41,10 +54,86 @@ a.nav-link:hover {
     color: #fafafa !important;
 
 }
+
+/* ---------------Home Page images ----------- */
+
+
+#img-home-1 {
+    height:150px;
+    width: 100%;
+}
+
+#about-head {
+    margin: 10px auto;
+    text-align: center;
+}
+
+.about-col {
+    font-family: 'Lato' sans-serif;
+    font-weight:300;
+    float: none;
+    clear: both;
+    width: 100%;
+}
+.section-sub-head {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    margin-left: 5px;
+}
+
+.section-sub-image {
+    margin-top: 25px;
+    margin-bottom: 40px;
+    margin-left: 5px;
+    margin-right: 10px;
+   }
+
+.section-sub-image img {
+    height: auto;
+}
+
+/* Credit: Code for scaling the image accorind to the window size was taken from https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_image_background3 
+ and edited slightly to fit the project purpose */
+#div-img-1 {
+    width: 100%;
+    height: 300px;
+    background-image: url("../images/wash1-1a.jpg");
+    background-size: cover;   
+}
+
+/* Credit: Code for scaling the image accorind to the window size was taken from https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_image_background3 
+ and edited slightly to fit the project purpose */
+
+#div-img-2 {
+    width: 100%;
+    height: 300px;
+     background-image: url("../images/in-wipe.jpg");
+    background-size: cover;   
+}
+
+/* Credit: Code for scaling the image accorind to the window size was taken from https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_image_background3 
+ and edited slightly to fit the project purpose */
+
+#div-img-3 {
+    width: 100%;
+    height: 300px;
+     background-image: url("../images/wash1-3a.jpg");
+    background-size: cover; 
+}
+
+/*
+.navbar-toggler-icon {
+    color: #fafafa !important;
+}
+
+
 .menucontainer {
     font-size: 0;
 }
 
+*/
 #logo {
     clear: both;
     float: left;
@@ -57,19 +146,13 @@ a.nav-link:hover {
    margin:0;      
 }
 
+/* ----------------------------------------Media Queries */
 
-
-/*
-.logo {
-    background: url("../images/logo.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
-    
-    transition: 05s ease-in-out;
-    -moz-transition: 05s ease-in-out;
-    -webkit-transition: 05s ease-in-out;
-    
+@media(min-width: 992px) {
+    .center-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
 }
-*/
