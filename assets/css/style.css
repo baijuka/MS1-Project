@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Lato&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*  
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+.header {
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+/* ------- Navbar Styling ------*/
+
+nav {
+    width: 100%;
+}
+
+a.nav-link {
+    color: white !important;
+}
+
+a.nav-link:hover {
+    color: orange !important;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+    }
+
+.nav-item {
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    color: #fafafa !important;
+
+}
+.menucontainer {
+    font-size: 0;
+}
+
+#logo {
+    clear: both;
+    float: left;
+}
+
+
+.logo {
+   height: 100px;
+   padding:2px 10px;
+   margin:0;      
+}
+
+
+
+/*
+.logo {
+    background: url("../images/logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    
+    transition: 05s ease-in-out;
+    -moz-transition: 05s ease-in-out;
+    -webkit-transition: 05s ease-in-out;
+    
+}
+*/
