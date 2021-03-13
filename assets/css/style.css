@@ -207,7 +207,32 @@ a.nav-link:hover {
 .social-media li a i:hover {
     color: #ebaa33;
 }
-/* -------------------------------Media Queries---- */
+
+/* ------------------ Service Page stylling--------- */
+
+.serv-price-details {
+    margin-top:50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.serv-price-details h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto",sans-serif;
+    text-align: center;
+}
+
+.serv-price-details ui,li {
+    font-family: "Karla", sans-serif;
+    text-align: center;
+    list-style-type: none;
+}
+
+#currency-sign {
+    font-weight: 300;
+}
+/* -----------------------Media Queries---- */
 
 @media(min-width: 992px) {
     .center-form {
