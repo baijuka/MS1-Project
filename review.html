@@ -1,14 +1,111 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <title>MerryWash| Keep you car tidy</title>
-  </head>
-  <body>
-    <h1>Hello, Reviews</h1>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>MerryWash| Keep you car tidy</title> 
+</head>
+
+<body>
     
-  </body>
+    <header class="header">
+        <!-- Credits: Code for navbar taken from https://getbootstrap.com/docs/4.5/components/navbar/
+        and edited slightly to fit the project purpose -->
+       
+        <nav class="navbar navbar-expand-md navbar-light bg-primary">
+            
+                <a class="navbar-brand"><a href="index.html"><img class="logo" src="assets/images/logo.png" alt="Logo"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button> 
+                
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav m-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="services.html">Services</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Reviews</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="contact.html">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>  
+        </nav>
+    </header>
+
+    <section class="container-fulid">
+        <div class="row">
+            <div class="col-12">    
+                <img id="img-home-1" src="assets/images/wash1-v1.jpg" alt="Wash Image">
+            </div>
+        </div>
+    </section>
+    
+    <section>
+        <h1>Reviews</h1>
+    </section>
+    <section>
+        <div class="footer-section">
+            <footer class="container-fluid footer-style">
+                <div class="row">
+                    <div class="col-md-3">
+                        <h4 class="upper-case">Location</h4>
+                        <address>
+                            1248/21 Chepstow Road<br>
+                            Newport XX19 9DQ<br>
+                            UK
+                        </address>
+                    </div>
+                    <div class="col-md-3 open-hours">
+                        <h4 class="upper-case">Opening Hours</h4>
+                        <p>Monady to Friday: <time>08:00</time> to <time>20:00</time></p>
+                        <p>Saturday: <time>08:00</time> to <time>18:00</time></p>
+                        <p>Sunday: <time>09:00</time> to <time>17:00</time></p>
+                    </div>
+                    <div class="col-md-3 pay-method">
+                        <h4 class="uppercase">How to pay?</h4>
+                        <p style="margin-top:20px;margin-bottom: 0;">We accept all major Credit/Debit Cards</p>
+                        <p>as well as cash!</p> 
+                    </div>
+                    <div class="col-md-3">
+                        <h4 class="uppercase">Find us on</h4>
+                        <ul class="list-inline   social-media">
+                            <li class="list-inline-item">
+                                <a href="https://www.facebook.com/" target="_blank">
+                                    <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                                    <span class="sr-only">Facebook</span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item  social-media">
+                                <a href="https://twitter.com/?lang=en-gb" target="_blank">
+                                    <i class="fab fa-twitter"></i>
+                                    <span class="sr-only">Twitter</span>
+                                </a
+                            </li>
+                            <li class="list-inline-item  social-media">
+                                <a href="https://www.youtube.com/" target="_blank">
+                                    <i class="fab fa-youtube"></i>
+                                    <span class="sr-only">YouTube</span>
+                                </a
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </section>
+
+
+</body>
 </html>

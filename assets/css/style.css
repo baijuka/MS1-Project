@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla&family=Roboto&display=swap');
 
-/* @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Lato&display=swap'); 
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Karla:100,200,300,400,500,600,700'); */
-
 *{
     margin: 0;
     padding: 0;
@@ -180,12 +177,9 @@ a.nav-link:hover {
 }
 
 .pay-method {
-    text-transform: ;
+    text-transform: uppercase ;
 }
 
-.social-media {
-    
-}
 .social-media {
     padding-bottom: 5px;
     font-size: 1.5em;
@@ -225,4 +219,4 @@ a.nav-link:hover {
 }
 
 
-
+ 
