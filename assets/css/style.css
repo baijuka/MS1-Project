@@ -130,7 +130,8 @@ a.nav-link:hover {
     width: 100%;
     height: 300px;
     background-image: url("../images/wash1-1a.jpg");
-    background-size: cover;   
+    background-size: cover; 
+    margin: auto;  
 }
 
 /* Credit: Code for scaling the image accorind to the window size was taken from https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_image_background3 
@@ -140,7 +141,8 @@ a.nav-link:hover {
     width: 100%;
     height: 300px;
      background-image: url("../images/in-wipe.jpg");
-    background-size: cover;   
+    background-size: cover;
+    margin: auto;    
 }
 
 /* Credit: Code for scaling the image accorind to the window size was taken from https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_image_background3 
@@ -150,13 +152,14 @@ a.nav-link:hover {
     width: 100%;
     height: 300px;
      background-image: url("../images/wash1-3a.jpg");
-    background-size: cover; 
+    background-size: cover;
+    margin: auto;  
 }
 
-/*  Footer section ------------ */
+/* ------------------ Footer section ------------ */
 
 .footer-section {
-    margin-top: 5px;
+    margin-top: 5px;   
 }
 
 .footer-style {
@@ -167,6 +170,9 @@ a.nav-link:hover {
     font-weight: 300;
 }
 
+.footer-style h4 {
+    text-align: left; 
+}
 .open-hours {
     margin:0;
     padding:0, 10px;

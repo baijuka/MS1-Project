@@ -1,7 +1,7 @@
 # MerryWash
 
-This website was developed to create an online presence for MerryWash, an imaginary car valeting busines, and thus improve its client base and business. MerryWash is a leading car valet business located im Newport South Wales, UK.
-This business provide a number of different services to its clients based on their requirements and demands.
+This website was developed to create an online presence for MerryWash, an imaginary car valeting business, and thus improve its client base and business. MerryWash is a leading car valet business located im Newport South Wales, UK.
+This business provides a number of different services to its clients based on their requirements and demands.
 
 ## UX
 
@@ -9,7 +9,7 @@ This business provide a number of different services to its clients based on the
 
 The primary objective of MerryWash is to provide its user a user-friendly, intuitive website capable of providing all required information about the business and its services without any hassle. MerryWash focus on two category of clients are their users:
 1.	Car drivers
-2.	Mini vehicle (vans) drivers
+2.	Mini vehicle (van) drivers
 
 ### User Objectives
 
@@ -58,7 +58,9 @@ This website was designed using user centric approach and for that special was g
 ### Fonts
 
 -	Primary font: Robot – simple and allowing letters to be settled into their natural width.
--	Secondary font: Lato – The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness.
+-	Secondary font: Karla – Karla is paired with Roboto and can be expanded to a variable font with a weight axis ranging 
+    from ExtraLight to ExtraBold plus full support of Western, Central, and South-Eastern European languages.
+
 ### Icons 
 -	All icons used are relevant to the subject to make navigation easy
 
@@ -71,7 +73,7 @@ This website was designed using user centric approach and for that special was g
 
 -	Tried to keep consistency in design in order to maintain a feeling of relationship between items.  
 -	Boxes, images, containers and cards were given provided with round corners to make smooth look.
--	Both header and footer were given same color pattern to make it more appealing
+-	Both header and footer were given matching color pattern to make it more appealing.
 -	All icons used were given same color to maintain the consistency.
 
 ### Background
@@ -87,10 +89,11 @@ Wireframes were created using Balsamiq Desktop App.
 
 ### Existing Features
 
--	Home page – Logo, Carousal, header, footer,….
--	About Us page
--	Services Page
--	Contact Us Page
+-	Home page:– Logo, navbar, header and footer.
+-	Services Page:- Embedded with various services provided, price and time taken to complete the job 
+-   Review Page:- User feedback received added in this section
+-	Contact Us Page:- This section features with Name text filed, Email field and comment box text area 
+    by which users can communicate with the business. Als has given the contact telephone and address of the business.
 
 ### Features Left to Impelement
 
