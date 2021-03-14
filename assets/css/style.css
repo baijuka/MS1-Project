@@ -223,14 +223,14 @@ a.nav-link:hover {
 
 #just-wash {
   border-radius: 25px;
-  border: 2px solid #e9d9a6;
+  border: 2px solid #e9d9a6; 
   padding: 20px; 
   width: 200px;
   height: 100%;  
 }
 
 #just-wash h3, #just-wash h4  {
-    background: #e9d9a6;
+    background: #f3f1ec;
     margin-left: 0;
     margin-right: 0;
 }
@@ -244,7 +244,7 @@ a.nav-link:hover {
 }
 
 #wash-vac h3, #wash-vac h4  {
-    background: #e0d74f;
+    background: #f3f1ec;
     margin-left: 0;
     margin-right: 0;
 }
@@ -257,7 +257,7 @@ a.nav-link:hover {
 }
 
 #mini-valet h3, #mini-valet h4  {
-    background: #a09715;
+    background: #f3f1ec;
     margin-left: 0;
     margin-right: 0;
 }
@@ -271,7 +271,7 @@ a.nav-link:hover {
 }
 
 #full-valet h3, #full-valet h4  {
-    background: #ebc04a;
+    background: #f3f1ec;
     margin-left: 0;
     margin-right: 0;
 }
@@ -284,11 +284,12 @@ a.nav-link:hover {
 }
 
 #super-valet h3, #super-valet h4  {
-    background: #ebaa33;
+    background: #f3f1ec;
     margin-left: 0;
     margin-right: 0;
 }
 .serv-price-details {
+    display:inline-block;
     margin-top:50px;
     margin-left: 20px;
     margin-right: 20px;
@@ -323,6 +324,38 @@ a.nav-link:hover {
 #testimonial h6 {
     text-align: left;
 }
+
+#testimonial-content {
+    background-color: #fbfdf5;
+    margin-top:30px;
+    border: 1px solid;
+    border-color: #d4d4dd;
+    border-radius: 2%;
+    padding: 10px 30px;
+}
+
+
+/* ----------- Contact page styling ------------*/
+
+#contac-section {
+    margin-top: 2%;
+    margin-bottom:2%;
+}
+
+input[type=submit] {
+    margin: 20px auto;
+    border-radius: 4px;
+    border: none;   
+    background-color: #e49115;  
+    color: white;
+    padding: 14px 22px;
+}
+
+input[type=submit]:hover {
+  background-color: #1f5ac7;
+}
+
+
 /* -----------------------Media Queries---- */
 
 @media(min-width: 992px) {

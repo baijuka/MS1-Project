@@ -135,7 +135,7 @@ The photos used in site were obtained from
 
 ### Acknowledgement
 
--	Mr. Antonio Rodriguez for support and advice.
+-	Mr. Antonio Rodriguez(Mentor) for support and advice.
 
 
 
