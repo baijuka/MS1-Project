@@ -122,7 +122,7 @@ None
 ### Content
 
 -	The text for service section was created using contents from the following sites:
--	A
+-	Testimonials - https://www.arnottsvaleting.co.uk/testimonials/
 -	B
 -	C
 

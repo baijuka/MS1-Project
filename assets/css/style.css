@@ -9,7 +9,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-
 .header {
     height: auto;
     margin: 0;
@@ -222,6 +221,73 @@ a.nav-link:hover {
 
 /* ------------------ Service Page stylling--------- */
 
+#just-wash {
+  border-radius: 25px;
+  border: 2px solid #e9d9a6;
+  padding: 20px; 
+  width: 200px;
+  height: 100%;  
+}
+
+#just-wash h3, #just-wash h4  {
+    background: #e9d9a6;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#wash-vac {
+  border-radius: 25px;
+  border: 2px solid #e0d74f;
+  padding: 20px; 
+  width: 200px;
+  height: 100%;  
+}
+
+#wash-vac h3, #wash-vac h4  {
+    background: #e0d74f;
+    margin-left: 0;
+    margin-right: 0;
+}
+#mini-valet {
+  border-radius: 25px;
+  border: 2px solid #a09715;
+  padding: 20px; 
+  width: 200px;
+  height: 100%;  
+}
+
+#mini-valet h3, #mini-valet h4  {
+    background: #a09715;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#full-valet {
+  border-radius: 25px;
+  border: 2px solid #ebc04a;
+  padding: 20px; 
+  width: 200px;
+  height: 100%;  
+}
+
+#full-valet h3, #full-valet h4  {
+    background: #ebc04a;
+    margin-left: 0;
+    margin-right: 0;
+}
+#super-valet {
+  border-radius: 25px;
+  border: 2px solid #d66e32;
+  padding: 20px; 
+  width: 200px;
+  height: 100%;  
+}
+
+#super-valet h3, #super-valet h4  {
+    background: #ebaa33;
+    margin-left: 0;
+    margin-right: 0;
+}
 .serv-price-details {
     margin-top:50px;
     margin-left: 20px;
@@ -244,6 +310,18 @@ a.nav-link:hover {
 
 #currency-sign {
     font-weight: 300;
+}
+
+/* -------------Testimonial page ------------ */
+
+#testimonial {
+    padding-top: 50px;
+    width:60%;
+    margin: 50px auto;
+}
+
+#testimonial h6 {
+    text-align: left;
 }
 /* -----------------------Media Queries---- */
 
