@@ -13,43 +13,43 @@ The primary objective of MerryWash is to provide its user a user-friendly, intui
 
 ### User Objectives
 
-•	Looking for services available
-•	Looking for details of each service and its cost
-•	Looking for other user reviews and feedback
-•	Looking for opening times
-•	Looking for how long each service takes to complete the job
-•	Looking for how they can pay for the job done
-•	Looking for how can they contact the MerryWash for more information
+- Looking for services available
+- Looking for details of each service and its cost
+- Looking for other user reviews and feedback
+- Looking for opening times
+- Looking for how long each service takes to complete the job
+- Looking for how they can pay for the job done
+- Looking for how can they contact the MerryWash for more information
 
 MerryWash has incorporated all these user gaols in its website and it:
 
-•	has made a custom website to its users according to their need
-•	has implemented a user centered Front-End development approach using five planes
-•	has made its website is easy to use
-•	is structured by adding interaction features
-•	has categorised its content so that users can easily access it depending on their need.
-•	has provided all required information about services and business
-•	is intuitive, learnable and easy to navigate
-•	has arranged its patterns, navigation and order of menu items in a way that any one can identify it easily
-•	is, above all, responsive to various devices such as mobile, tablets and larger screens.
+- has made a custom website to its users according to their need
+- has implemented a user centered Front-End development approach using five planes
+- has made its website is easy to use
+- is structured by adding interaction features
+- has categorised its content so that users can easily access it depending on their need.
+- has provided all required information about services and business
+- is intuitive, learnable and easy to navigate
+- has arranged its patterns, navigation and order of menu items in a way that any one can identify it easily
+- is, above all, responsive to various devices such as mobile, tablets and larger screens.
 
 ### Developer and Business Goals
 
-•	Design and develop a well-illustrated website that can be attracted by any user at first sight.
-•	Provide a professional touch in every feature, content and layout.
-•	Implement everything required to make the website easy to use and make users stress free and happy.
+- Design and develop a well-illustrated website that can be attracted by any user at first sight.
+- Provide a professional touch in every feature, content and layout.
+- Implement everything required to make the website easy to use and make users stress free and happy.
 
 ### User Stories
 
 As a taxi driver I need to wash my car regularly and for which:
-•	I use the help of internet to find a car washing service of my choice.
-•	I need to find out detailed information about services available.
-•	I need to know about how much they charge for their services.
-•	I want to know if the business is open for my choice of time.
-•	I want to find out the information easily
-•	I want to go to each page with a single click of buttons or links
-•	I want to know how I can contact the service provider whenever required.
-•	I want to know what other users have said about this particular service provider from their experience.
+- I use the help of internet to find a car washing service of my choice.
+- I need to find out detailed information about services available.
+- I need to know about how much they charge for their services.
+- I want to know if the business is open for my choice of time.
+- I want to find out the information easily
+- I want to go to each page with a single click of buttons or links
+- I want to know how I can contact the service provider whenever required.
+- I want to know what other users have said about this particular service provider from their experience.
 
 ## Design Choices
 

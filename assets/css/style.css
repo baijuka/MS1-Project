@@ -130,11 +130,11 @@ a.nav-link:hover {
 
 #div-img-1 {
     width: 100%;
-    height: 300px;
+    height: 300px; 
     background-image: url("../images/wash1-1a.jpg");
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; 
-    margin: auto;  
+    background-size: cover;  
 }
 
 /* Credit: Code for scaling the image accorind to the window size was taken from https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_image_background3 
