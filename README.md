@@ -123,13 +123,13 @@ None
 
 -	The text for service section was created using contents from the following sites:
 -	Testimonials - https://www.arnottsvaleting.co.uk/testimonials/
--	B
+-	Content - https://www.mobilecarvaleting.co.uk/
 -	C
 
 ### Media
 
 The photos used in site were obtained from
--	A
+-	[Spray Nozzles](https://www.spray.com)
 -	B
 -	C
 
