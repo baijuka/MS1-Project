@@ -3,17 +3,80 @@
 .selector-for-some-widget {
   box-sizing: content-box;
 }
+
+.text-center {
+    text-align: center;
+}
 /*-------Navbar styling---------*/
 #button-search.btn-outline-primary {
     color: yellow;
     border-color: yellow;
 }
+
+li.nav-item a:hover {
+    color:orange !important;
+}
 /*------------- Home page styling and content ----------------- */
 
-div#home-pic1 {
-    position: relative;
-    widows: 50%;
-    height: 50%;
+#pic-1 {
+    margin-top:1%;
+    width:100%;
+    height:auto;
+}
+
+/*-------------- Services page styling ---------*/
+
+#service-section {
+    margin-top: 1%, auto;
+    
+    }
+
+ #service-section div.card.border-secondary.mb-3 {
+    margin-left: 1%;
+    margin-right:1%;
+    padding-left: 0;
+    padding-right: 0;
+} 
+
+/*----------Testimonial page styling------------ */
+
+#testimonial {
+    padding-top: 50px;
+    width:60%;
+    margin: 50px auto;
+}
+
+#testimonial h6 {
+    text-align: left;
+}
+
+#testimonial-content {
+    background-color: #fbfdf5;
+    margin-top:30px;
+    border: 1px solid;
+    border-color: #d4d4dd;
+    border-radius: 2%;
+    padding: 10px 30px;
+}
+
+/* ----------- Contact page styling ------------*/
+
+#contac-section {
+    margin-top: 2%;
+    margin-bottom:2%;
+}
+
+input[type=submit] {
+    margin: 20px auto;
+    border-radius: 4px;
+    border: none;   
+    background-color: #e49115;  
+    color: white;
+    padding: 14px 22px;
+}
+
+input[type=submit]:hover {
+  background-color: #1f5ac7;
 }
 
 /* -------------Footer section styling -----------*/
@@ -42,7 +105,7 @@ div .footer-section {
 }
 
 .pay-method {
-    text-transform: uppercase ;
+    text-transform: capitalize;
 }
 
 .social-media {
@@ -50,7 +113,7 @@ div .footer-section {
     font-size: 1.5em;
 }
 
-/* Credit: Code for socil media icons was taken from Code Institute's lesson 
+/* Credit: Code for socil media icons was created based on Code Institute's lesson 
    module - Resume Project (https://learn.codeinstitute.net) and edited slightly
    to fit the project purpose */
 

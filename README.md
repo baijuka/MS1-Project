@@ -123,7 +123,7 @@ None
 
 -	The text for service section was created using contents from the following sites:
 -	Testimonials - https://www.arnottsvaleting.co.uk/testimonials/
--	Content - https://www.mobilecarvaleting.co.uk/
+-	Other descriptions - https://www.mobilecarvaleting.co.uk/
 -	C
 
 ### Media
