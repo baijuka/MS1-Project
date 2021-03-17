@@ -130,8 +130,8 @@ None
 
 The photos used in site were obtained from
 -	[Spray Nozzles](https://www.spray.com)
--	B
--	C
+-	[Goldstar Multi](https://goldstarmulti.co.uk)
+-	[Autoguide](https://www.autoguide.com)
 
 ### Acknowledgement
 

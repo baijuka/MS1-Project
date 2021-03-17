@@ -3,9 +3,72 @@
 .selector-for-some-widget {
   box-sizing: content-box;
 }
+/*-------Navbar styling---------*/
+#button-search.btn-outline-primary {
+    color: yellow;
+    border-color: yellow;
+}
+/*------------- Home page styling and content ----------------- */
 
 div#home-pic1 {
     position: relative;
     widows: 50%;
     height: 50%;
+}
+
+/* -------------Footer section styling -----------*/
+div .footer-section {
+    margin-top: 5px;   
+}
+
+.footer-style {
+    padding-top: 10px;
+    background: #6a727a;;
+    font-family: Karla;
+    color:whitesmoke;
+    font-weight: 300;
+}
+
+.footer-style h4 {
+    text-align: left; 
+}
+.open-hours {
+    margin:0;
+    padding:0, 10px;
+}
+
+.open-hours p {
+    margin: 0;
+}
+
+.pay-method {
+    text-transform: uppercase ;
+}
+
+.social-media {
+    padding-bottom: 5px;
+    font-size: 1.5em;
+}
+
+/* Credit: Code for socil media icons was taken from Code Institute's lesson 
+   module - Resume Project (https://learn.codeinstitute.net) and edited slightly
+   to fit the project purpose */
+
+.social-media li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 10px;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: #fcff57;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;  /* for mozila browser */ 
+    -webkit-transition: all 0.35s ease-in-out; /* fro webkit browsers */ 
+    -o-transition: all 0.35s ease-in-out; /* for opera */
+}
+
+.social-media li a i:hover {
+    color: #d68463;
 }
