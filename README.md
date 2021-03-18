@@ -92,8 +92,8 @@ Wireframes were created using Balsamiq Desktop App.
 -	Home page:– Logo, navbar, header and footer.
 -	Services Page:- Embedded with various services provided, price and time taken to complete the job 
 -   Review Page:- User feedback received added in this section
--	Contact Us Page:- This section features with Name text filed, Email field and comment box text area 
-    by which users can communicate with the business. Als has given the contact telephone and address of the business.
+-	Contact Page:- This section features with Name text filed, Email field and comment box text area 
+    by which users can communicate with the business. Als has given the contact telephone number and address of the business.
 
 ### Features Left to Impelement
 
@@ -103,10 +103,11 @@ None
 
 -	HTML
 -	CSS
--	[Bootstrap](https://getbootstrap.com/)
+-	[Bootstrap Framework](https://getbootstrap.com/)
 -	[GitHub](https://github.com/) 
 -	Gitpod
 -	[Font Awsome](https://fontawesome.com/)
+-   [Google Fonts](https://fonts.google.com/)
 
 ## Testing
 
@@ -124,7 +125,6 @@ None
 -	The text for service section was created using contents from the following sites:
 -	Testimonials - https://www.arnottsvaleting.co.uk/testimonials/
 -	Other descriptions - https://www.mobilecarvaleting.co.uk/
--	C
 
 ### Media
 
@@ -132,6 +132,7 @@ The photos used in site were obtained from
 -	[Spray Nozzles](https://www.spray.com)
 -	[Goldstar Multi](https://goldstarmulti.co.uk)
 -	[Autoguide](https://www.autoguide.com)
+-   [Adobe Stock](https://stock.adobe.com/si/search?k=carwash+background)
 
 ### Acknowledgement
 
