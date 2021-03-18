@@ -86,13 +86,13 @@ input[type=submit] {
     margin: 20px auto;
     border-radius: 4px;
     border: none;   
-    background-color: #e49115;  
+    background-color:#1f5ac7; 
     color: white;
     padding: 14px 22px;
 }
 
 input[type=submit]:hover {
-  background-color: #1f5ac7;
+  background-color: #e49115;  
 }
 
 /* -------------Footer section styling -----------*/
