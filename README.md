@@ -1,7 +1,10 @@
-# MerryWash
+<h1 align="center">MerryWash Website</h1>
+
+[View the live project here.](https://baijuka.github.io/MS1-Project/)
+
 
 This website was developed to create an online presence for MerryWash, an imaginary car valeting business, and thus improve its client base and business. MerryWash is a leading car valet business located im Newport South Wales, UK.
-This business provides a number of different services to its clients based on their requirements and demands.
+This business provides a number of different services to the public based on their requirements and demands.
 
 ## UX
 
@@ -89,6 +92,8 @@ Wireframes were created using Balsamiq Desktop App.
 
 ### Existing Features
 
+-   Responsive on all device sizes
+-   Interactive elements
 -	Home page:– Logo, navbar, header and footer.
 -	Services Page:- Embedded with various services provided, price and time taken to complete the job 
 -   Review Page:- User feedback received added in this section
@@ -101,15 +106,36 @@ None
 
 ## Technologies Used
 
--	HTML
--	CSS
--	[Bootstrap Framework](https://getbootstrap.com/)
--	[GitHub](https://github.com/) 
--	Gitpod
--	[Font Awsome](https://fontawesome.com/)
--   [Google Fonts](https://fonts.google.com/)
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+1.	[Bootstrap Framework](https://getbootstrap.com/)
+    -   Bootstrap was used to assist with the responsiveness and styling of the website.
+1.   [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import 'Roboto' and 'Arimo' fonts into the style.css file which is used on all pages throughout the project.
+1.   [Font Awesome:](https://fontawesome.com/)
+        - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1.  [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
+-   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone6, Samsung Galaxy A70.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
+-   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ## Depolyment
 
