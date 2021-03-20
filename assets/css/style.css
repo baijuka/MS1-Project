@@ -80,6 +80,10 @@ h5.card-title {
     margin: auto;
 }
 
+.card-text {
+    height:120px;
+}
+
 /* ----------- Contact page styling ------------*/
 
 #contac-section {
