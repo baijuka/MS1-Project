@@ -71,7 +71,7 @@ This website was designed using user centric approach and for that special was g
 
 ### Colors
 
-The two main colours used are yellow and white.  Dark background has applied to navigation bar and footer.
+The two main colours used are yellow and white.  Dark background has been applied to navigation bar and footer.
 
 ### Styling
 
@@ -146,9 +146,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
--   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   Issue - Navbar item color was not changing while mouse hower over it.
+    Fixed - Changed the code in style.css as : 
+        li.nav-item a:hover {
+        color:orange !important;
+        }
+-   Issue - Lead images on all pages were stretching beyond the screens
+    Fixed - Wrapped the content in div block with a container class
 
 ## Deployment
 

@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Roboto&display=swap');
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.text-center {
+    text-align: center;
+}
+/*-------Navbar styling---------*/
+#button-search.btn-outline-primary {
+    color: yellow;
+    border-color: yellow;
+}
+
+
+li.nav-item a:hover {
+    color:orange !important;
+}
+
+.text-menu {
+    color: white !important;
+    font-size: 1.2rem;
+}
+
+/*------------- Home page styling and content ----------------- */
+
+#pic-1 {
+    margin-top:1%;
+    width:100%;
+    height:auto;
+}
+
+/*-------------- Services page styling ---------*/
+
+#service-section {
+    margin-top: 30px;
+    
+    }
+
+ #service-section div.card.border-secondary.mb-3 {
+    margin-left: 1%;
+    margin-right:1%;
+    padding-left: 0;
+    padding-right: 0;
+} 
+
+.card-header {
+    font-size: 1.2rem! important;
+    text-align: center;
+}
+
+h5.card-title {
+    text-align: center !important;
+}
+/*----------Testimonial page styling------------ */
+
+#testimonial {
+    padding-top: 50px;
+    width:60%;
+    margin: 50px auto;
+}
+
+#testimonial h6 {
+    text-align: left;
+}
+
+#testimonial-content {
+    background-color: #fbfdf5;
+    margin-top:30px;
+    border: 1px solid;
+    border-color: #d4d4dd;
+    border-radius: 2%;
+    padding: 10px 30px;
+}
+
+.card-img-container {
+    width:100px;
+    height:auto;
+    margin: auto;
+}
+
+/* ----------- Contact page styling ------------*/
+
+#contac-section {
+    margin-top: 2%;
+    margin-bottom:2%;
+    width:50%;
+}
+
+input[type=submit] {
+    margin: 20px auto;
+    border-radius: 4px;
+    border: none;   
+    background-color:#1f5ac7; 
+    color: white;
+    padding: 14px 22px;
+}
+
+input[type=submit]:hover {
+  background-color: #e49115;  
+}
+
+/* -------------Footer section styling -----------*/
+div .footer-section {
+    margin-top: 5px;   
+}
+
+.footer-style {
+    padding-top: 10px;
+    background: #6a727a;;
+    font-family: Karla;
+    color:whitesmoke;
+    font-weight: 300;
+}
+
+.footer-style h4 {
+    text-align: left; 
+}
+.open-hours {
+    margin:0;
+    padding:0, 10px;
+}
+
+.open-hours p {
+    margin: 0;
+}
+
+.pay-method {
+    text-transform: capitalize;
+}
+
+.social-media {
+    padding-bottom: 5px;
+    font-size: 1.5em;
+}
+
+/* Credit: Code for socil media icons was created based on Code Institute's lesson 
+   module - Resume Project (https://learn.codeinstitute.net) and edited slightly
+   to fit the project purpose */
+
+.social-media li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 10px;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: #fcff57;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;  /* for mozila browser */ 
+    -webkit-transition: all 0.35s ease-in-out; /* fro webkit browsers */ 
+    -o-transition: all 0.35s ease-in-out; /* for opera */
+}
+
+.social-media li a i:hover {
+    color: #d68463;
+}
