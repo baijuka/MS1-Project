@@ -16,7 +16,7 @@ and its services without any hassle. MerryWash focuses on two category of client
 1.	Car drivers
 2.	Mini vehicle (van) drivers
 
-### User Objectives
+### User objectives as a car driver
 
 - Looking for services available
 - Looking for details of each service and its cost
@@ -26,45 +26,47 @@ and its services without any hassle. MerryWash focuses on two category of client
 - Looking for how they can pay for the job done
 - Looking for how can they contact the MerryWash for more information
 
+### User stories
+
+As a taxi driver I need to wash my car regularly and for which:
+- I use the help of internet to find a car washing service of my choice
+- I need to find out detailed information about services available
+- I need to know about how much they charge for their services
+- I want to know if the business is open for my choice of time
+- I want to find out the information easily
+- I want to go to each page with a single click of buttons or links
+- I want to know how I can contact the service provider whenever required
+- I want to know what other users have said about this particular service provider from their experience
+
+
 MerryWash has incorporated all these user gaols in its website and it:
 
 - has made a custom website to its users according to their need
-- has implemented a user centered Front-end development approach using five planes
+- has implemented a user centered front-end development approach using five planes
 - has made its website is easy to use
 - is structured by adding interaction features
-- has categorised its content so that users can easily access it depending on their need.
+- has categorised its content so that users can easily access it depending on their need
 - has provided all required information about services and business
 - is intuitive, learnable and easy to navigate
 - has arranged its patterns, navigation and order of menu items in a way that any one can identify it easily
-- is, above all, responsive to various devices such as mobile, tablets and larger screens.
+- is, above all, responsive to various devices such as mobile, tablets and larger screens
 
 ### Developer and Business Goals
 
-- Design and develop a well-illustrated website that can be attracted by any user at first sight.
-- Provide a professional touch in every feature, content and layout.
-- Implement everything required to make the website easy to use and make users stress free and happy.
+- Design and develop a well-illustrated website that can be attracted by any user at first sight
+- Provide a professional touch in every feature, content and layout
+- Implement everything required to make the website easy to use and make users stress free and happy
 
-### User Stories
-
-As a taxi driver I need to wash my car regularly and for which:
-- I use the help of internet to find a car washing service of my choice.
-- I need to find out detailed information about services available.
-- I need to know about how much they charge for their services.
-- I want to know if the business is open for my choice of time.
-- I want to find out the information easily
-- I want to go to each page with a single click of buttons or links
-- I want to know how I can contact the service provider whenever required.
-- I want to know what other users have said about this particular service provider from their experience.
 
 ## Design Choices
 
-This website was designed using user centric approach and for that special was given in choosing various elements.
+This website was designed using user centric approach and for that special was given in choosing various elements
 
 ### Fonts
 
--	Primary font: Robot – simple and allowing letters to be settled into their natural width.
+-	Primary font: Robot – simple and allowing letters to be settled into their natural width
 -	Secondary font: Arimo – Arimo offers improved on-screen readability characteristics and the pan-European WGL character 
-    set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.
+    set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms
 
 ### Icons 
 -	All icons used are relevant to the subject to make navigation easy
@@ -75,10 +77,10 @@ The two main colours used are yellow and white.  Dark background has been applie
 
 ### Styling
 
--	Tried to keep consistency in design in order to maintain a feeling of relationship between items.  
--	Boxes, images, containers and cards were given provided with round corners to make smooth look.
--	Both header and footer were given matching color pattern to make it more appealing.
--	All icons used were given same color to maintain the consistency.
+-	Tried to keep consistency in design in order to maintain a feeling of relationship between items  
+-	Boxes, images, containers and cards were given provided with round corners to make smooth look
+-	Both header and footer were given matching color pattern to make it more appealing
+-	All icons used were given same color to maintain the consistency
 
 ### Background
 
@@ -93,7 +95,7 @@ Wireframes were created using Balsamiq Desktop App.
 -   Testimonials Page - <a href="./assets/wireframes/testimonials.pdf" target="_blank" >Testimonials</a>
 -   Contat Page - <a href="./assets/wireframes/contact.pdf" target="_blank" >Contact</a>
 
-### Mock-ups of Mobile and Tabs
+### Mock-ups for Mobile and Tabs
 -   Home Page - <a href="./assets/wireframes/mockup.pdf" target="_blank" >Home</a>
 
 ## Features
@@ -102,15 +104,15 @@ Wireframes were created using Balsamiq Desktop App.
 
 -   Responsive on all device sizes
 -   Interactive elements
--	Home page:– Logo, navbar, header and footer.
+-	Home page:– Logo, navbar, header and footer
 -	Services Page:- Embedded with various services provided, price and time taken to complete the job 
 -   Review Page:- User feedback received added in this section
 -	Contact Page:- This section features with Name text filed, Email field and comment box text area 
-    by which users can communicate with the business. Als has given the contact telephone number and address of the business.
+    by which users can communicate with the business. Als has given the contact telephone number and address of the business
 
 ### Features Left to Implement
 
--   Would like to add online service booking forms in future
+-   Online service booking form will be added in the next version
 
 ## Technologies Used
 
@@ -122,33 +124,37 @@ Wireframes were created using Balsamiq Desktop App.
 ### Frameworks, Libraries & Programs Used
 
 1.	[Bootstrap Framework](https://getbootstrap.com/)
-    -   Bootstrap was used to assist with the responsiveness and styling of the website.
+    -   Bootstrap was used to assist with the responsiveness and styling of the website
 1.   [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import 'Roboto' and 'Arimo' fonts into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import 'Roboto' and 'Arimo' fonts into the style.css file which is used on all pages throughout the project
 1.   [Font Awesome:](https://fontawesome.com/)
-        - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+        - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes
 1.  [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub
 1. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
+    - GitHub is used to store the projects code after being pushed from Git
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the wireframes during the design process.
+    - Balsamiq was used to create the wireframes during the design process
 1. [Gitpod:](https://www.gitpod.io/)
-    - Gitpod was used as a text editor create and edit files.
+    - Gitpod was used as a text editor to create and edit files
+1. Google Chrome
+    - Google Chrome was used to browse the pages
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone6, Samsung Galaxy A70.
--   A large amount of testing was done to ensure that all pages were linking correctly.
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+-   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone6, Samsung Galaxy A70
+-   A large amount of testing was done to ensure that all pages were linking correctly
+-   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues
 
 ### Known Bugs
 
--   Issue - Navbar item color was not changing while mouse hower over it.
+-   Issue -The display of the web pages were different on deployment site
+    Fixed - Added a dot infront of the relative path in the link tag: <link rel="stylesheet" href="./assets/css/style.css">
+-   Issue - Navbar item color was not changing while mouse hower over it
     Fixed - Changed the code in style.css as : 
         li.nav-item a:hover {
         color:orange !important;
@@ -189,6 +195,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
     $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
+
 7. Press Enter. Your local clone will be created.
 
 	$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
@@ -198,6 +205,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
+
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
