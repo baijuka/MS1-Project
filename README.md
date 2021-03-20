@@ -3,14 +3,16 @@
 [View the live project here.](https://baijuka.github.io/MS1-Project/)
 
 
-This website was developed to create an online presence for MerryWash, an imaginary car valeting business, and thus improve its client base and business. MerryWash is a leading car valet business located im Newport South Wales, UK.
+This website was developed to create an online presence for MerryWash, an imaginary car valeting business, and thus improve its client base and business. 
+MerryWash is a leading car valet business located im Newport South Wales, UK.
 This business provides a number of different services to the public based on their requirements and demands.
 
 ## UX
 
 ### Project Goals
 
-The primary objective of MerryWash is to provide its user a user-friendly, intuitive website capable of providing all required information about the business and its services without any hassle. MerryWash focus on two category of clients are their users:
+The primary objective of MerryWash is to provide its users a user-friendly, intuitive website capable of providing all required information about the business 
+and its services without any hassle. MerryWash focuses on two category of clients as their users and they are:
 1.	Car drivers
 2.	Mini vehicle (van) drivers
 
@@ -27,7 +29,7 @@ The primary objective of MerryWash is to provide its user a user-friendly, intui
 MerryWash has incorporated all these user gaols in its website and it:
 
 - has made a custom website to its users according to their need
-- has implemented a user centered Front-End development approach using five planes
+- has implemented a user centered Front-end development approach using five planes
 - has made its website is easy to use
 - is structured by adding interaction features
 - has categorised its content so that users can easily access it depending on their need.
@@ -61,16 +63,15 @@ This website was designed using user centric approach and for that special was g
 ### Fonts
 
 -	Primary font: Robot – simple and allowing letters to be settled into their natural width.
--	Secondary font: Karla – Karla is paired with Roboto and can be expanded to a variable font with a weight axis ranging 
-    from ExtraLight to ExtraBold plus full support of Western, Central, and South-Eastern European languages.
+-	Secondary font: Arimo – Arimo offers improved on-screen readability characteristics and the pan-European WGL character 
+    set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.
 
 ### Icons 
 -	All icons used are relevant to the subject to make navigation easy
 
 ### Colors
 
--	Primary color ….
--	Other colors …….
+The two main colours used are yellow and white.  Dark background has applied to navigation bar and footer.
 
 ### Styling
 
@@ -82,11 +83,12 @@ This website was designed using user centric approach and for that special was g
 ### Background
 
 -	Background image of car wash is selected to resemble the nature of business
--	Background color for other containers (light blue)
+-	Other pages were also embedded with car valet related images 
 
 ## Wireframes
 
 Wireframes were created using Balsamiq Desktop App.
+-   Home Page Wireframe -<a href="assets/wireframes/home.pdf" target="_blank" >Home</a>
 
 ## Features
 
@@ -131,18 +133,30 @@ None
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone6, Samsung Galaxy A70.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-## Depolyment
+### Known Bugs
 
--	Used GitHub Platform to deploy the project
--	Git branch name - 
+-   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
+-   A white gap can be seen to the right of the footer and navigation bar as a result.
+-   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
 
--	How did you do it
+## Deployment
+
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
 ## Credits
 
@@ -159,20 +173,11 @@ The photos used in site were obtained from
 -	[Goldstar Multi](https://goldstarmulti.co.uk)
 -	[Autoguide](https://www.autoguide.com)
 -   [Adobe Stock](https://stock.adobe.com/si/search?k=carwash+background)
+-   [Psychology Today](https://cdn.psychologytoday.com)
+-   [The Conversation](https://images.theconversation.com)
+-   [Istock Photo](https://media.istockphoto.com)
 
 ### Acknowledgement
 
 -	Mr. Antonio Rodriguez(Mentor) for support and advice.
-
-
-
-
-## Gitpod Reminders
-To run a frontend (HTML, CSS) application in Gitpod, in the terminal, type:
-python3 -m http.server
-A blue button should appear to click: Make Public,
-Another blue button should appear to click: Open Browser.
-To run a backend Python file, type python3 app.py, if your Python file is named app.py of course.
-A blue button should appear to click: Make Public,
-Another blue button should appear to click: Open Browser.
 
