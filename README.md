@@ -88,7 +88,10 @@ The two main colours used are yellow and white.  Dark background has applied to 
 ## Wireframes
 
 Wireframes were created using Balsamiq Desktop App.
--   Home Page Wireframe -<a href="assets/wireframes/home.pdf" target="_blank" >Home</a>
+-   Home Page Wireframe -<a href="./assets/wireframes/home.pdf" target="_blank" >Home</a>
+-   Services Page - <a href="./assets/wireframes/services.pdf" target="_blank" >Services</a>
+-   Testimonials Page - <a href="./assets/wireframes/testimonials.pdf" target="_blank" >Testimonials</a>
+-   Contat Page - <a href="./assets/wireframes/contact.pdf" target="_blank" >Contact</a>
 
 ## Features
 
