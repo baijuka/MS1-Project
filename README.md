@@ -93,6 +93,9 @@ Wireframes were created using Balsamiq Desktop App.
 -   Testimonials Page - <a href="./assets/wireframes/testimonials.pdf" target="_blank" >Testimonials</a>
 -   Contat Page - <a href="./assets/wireframes/contact.pdf" target="_blank" >Contact</a>
 
+### Mock-ups of Mobile and Tabs
+-   Home Page - <a href="./assets/wireframes/mockup.pdf" target="_blank" >Home</a>
+
 ## Features
 
 ### Existing Features
