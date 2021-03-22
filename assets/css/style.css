@@ -7,7 +7,7 @@
 .text-center {
     text-align: center;
 }
-/*-------Navbar styling---------*/
+
 #button-search.btn-outline-primary {
     color: yellow;
     border-color: yellow;
@@ -23,19 +23,15 @@ li.nav-item a:hover {
     font-size: 1.2rem;
 }
 
-/*------------- Home page styling and content ----------------- */
-
 #pic-1 {
     margin-top:1%;
     width:100%;
     height:auto;
 }
 
-/*-------------- Services page styling ---------*/
 
 #service-section {
-    margin-top: 30px;
-    
+    margin-top: 30px; 
     }
 
  #service-section div.card.border-secondary.mb-3 {
@@ -53,7 +49,6 @@ li.nav-item a:hover {
 h5.card-title {
     text-align: center !important;
 }
-/*----------Testimonial page styling------------ */
 
 #testimonial {
     padding-top: 50px;
@@ -86,7 +81,6 @@ h5.card-title {
     padding-top:5px;
 }
 
-/* ----------- Contact page styling ------------*/
 
 #contac-section {
     margin-top: 2%;
@@ -107,7 +101,7 @@ input[type=submit]:hover {
   background-color: #e49115;  
 }
 
-/* -------------Footer section styling -----------*/
+
 div .footer-section {
     margin-top: 5px;   
 }
@@ -155,11 +149,7 @@ div .footer-section {
     text-align: center;
     color: #fcff57;
     transition: all 0.35s ease-in-out;
-    /* 
-    -moz-transition: all 0.35s ease-in-out;   
-    -webkit-transition: all 0.35s ease-in-out;  
-    -o-transition: all 0.35s ease-in-out; 
-    */ 
+ 
 }
 
 .social-media li a i:hover {
