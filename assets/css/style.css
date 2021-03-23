@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Arimo&family=Roboto&display=swap');
 
+.body { 
+    overflow-x: hidden;
+}
+
 .selector-for-some-widget {
   box-sizing: content-box;
 }
