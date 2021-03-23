@@ -4,7 +4,7 @@
 
 
 This website was developed to create an online presence for MerryWash, an imaginary car valeting business, and thus improve its client base and business. 
-MerryWash is a leading car valet business located im Newport South Wales, UK.
+MerryWash is a leading car valet business located in Newport South Wales, UK.
 This business provides a number of different services to the public based on their requirements and demands.
 
 ## UX
@@ -39,10 +39,10 @@ As a taxi driver I need to wash my car regularly and for which:
 - I want to know what other users have said about this particular service provider from their experience
 
 
-MerryWash has incorporated all these user gaols in its website and it:
+MerryWash has incorporated all these user goals in its website and it:
 
 - has made a custom website to its users according to their need
-- has implemented a user centered front-end development approach using five planes
+- has implemented a user centric front-end development approach using five planes
 - has made its website is easy to use
 - is structured by adding interaction features
 - has categorised its content so that users can easily access it depending on their need
@@ -108,7 +108,7 @@ Wireframes were created using Balsamiq Desktop App.
 -	Services Page:- Embedded with various services provided, price and time taken to complete the job 
 -   Review Page:- User feedback received added in this section
 -	Contact Page:- This section features with Name text filed, Email field and comment box text area 
-    by which users can communicate with the business. Als has given the contact telephone number and address of the business
+    by which users can communicate with the business. Also has given the contact telephone number and address of the business
 
 ### Features Left to Implement
 
@@ -153,8 +153,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Known Bugs
 
 -   Issue -The display of the web pages were different on deployment site
-    Fixed - Added a dot infront of the relative path in the link tag: <link rel="stylesheet" href="./assets/css/style.css">
--   Issue - Navbar item color was not changing while mouse hower over it
+    Fixed - Added a dot in front of the relative path in the link tag: <link rel="stylesheet" href="./assets/css/style.css">
+-   Issue - Navbar item color was not changing while mouse however over it
     Fixed - Changed the code in style.css as : 
         li.nav-item a:hover {
         color:orange !important;
