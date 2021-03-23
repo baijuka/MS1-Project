@@ -31,11 +31,14 @@ li.nav-item a:hover {
     margin-top:1%;
     width:100%;
     height:auto;
+    padding:0;
 }
 
 
 #service-section {
-    margin-top: 30px; 
+    margin-top: 30px;
+    margin-right:auto;
+    margin-left:auto; 
     }
 
  #service-section div.card.border-secondary.mb-3 {
@@ -116,6 +119,8 @@ div .footer-section {
     font-family: Karla;
     color:whitesmoke;
     font-weight: 300;
+    margin-right: 0;
+    margin-left: 0;
 }
 
 .footer-style h4 {
