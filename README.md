@@ -60,7 +60,7 @@ MerryWash has incorporated all these user goals in its website and it:
 
 ## Design Choices
 
-This website was designed using user centric approach and for that special was given in choosing various elements
+This website was designed using user centric approach and for that special attention was given in choosing various elements
 
 ### Fonts
 
@@ -78,14 +78,13 @@ The two main colours used are yellow and white.  Dark background has been applie
 ### Styling
 
 -	Tried to keep consistency in design in order to maintain a feeling of relationship between items  
--	Boxes, images, containers and cards were given provided with round corners to make smooth look
+-	Boxes, images, containers and cards were given round corners to look smooth
 -	Both header and footer were given matching color pattern to make it more appealing
 -	All icons used were given same color to maintain the consistency
 
 ### Background
 
--	Background image of car wash is selected to resemble the nature of business
--	Other pages were also embedded with car valet related images 
+-	Background: Images of various car valeting procedures were embedded in every page to resemble the nature of the business
 
 ## Wireframes
 
@@ -108,7 +107,7 @@ Wireframes were created using Balsamiq Desktop App.
 -	Services Page:- Embedded with various services provided, price and time taken to complete the job 
 -   Review Page:- User feedback received added in this section
 -	Contact Page:- This section features with Name text filed, Email field and comment box text area 
-    by which users can communicate with the business. Also has given the contact telephone number and address of the business
+    by which users can communicate with the business. Also has given the contact telephone number and address of the business in the header and footer section.
 
 ### Features Left to Implement
 
